@@ -27,7 +27,7 @@
     "@liquality/bitcoin-fee-api-provider": "1.13.5",
     "@liquality/bitcoin-js-wallet-provider": "1.13.5",
     "@liquality/bitcoin-ledger-provider": "1.13.5",
-    "@liquality/bitcoin-networks": "1.13.5",
+    "@liquality/bitcoin-networks": "1.13.12",
     "@liquality/bitcoin-rpc-fee-provider": "1.13.5",
     "@liquality/bitcoin-rpc-provider": "1.13.5",
     "@liquality/bitcoin-swap-provider": "1.13.5",
